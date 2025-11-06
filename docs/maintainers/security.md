@@ -9,7 +9,7 @@
 
   Private contact, PGP key, embargo flow, supported versions, backport policy.
 
-- **Contact:** security@… and PGP key (optional)
+- **Contact:** security@lists.lfdecentralizedtrust.org
 - **Embargo:** intake → triage → coordinated fix → disclosure
 - **Support:** list supported versions and backport windows
 
