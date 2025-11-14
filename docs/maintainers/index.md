@@ -33,7 +33,8 @@
     ---
 
    Simple steps for engaging real-world users and turning feedback into upstream momentum.
-  </div>
+  
+</div>
  
 <!-- 
     Follow security best practices: SECURITY.md, vulnerability response, SLSA, release signing & provenance.
