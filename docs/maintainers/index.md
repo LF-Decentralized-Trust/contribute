@@ -33,6 +33,7 @@
    ---
 
    Simple steps for engaging real-world users and turning feedback into upstream momentum.
+  </div>
  
 <!-- 
     Follow security best practices: SECURITY.md, vulnerability response, SLSA, release signing & provenance.
@@ -40,8 +41,6 @@
 - :material-shield-check:{ .lg .middle } __[Security](security.md)__
 
     ---
-
-
 
 - :material-cogs:{ .lg .middle } __[Operations](operations.md)__
 
@@ -55,7 +54,7 @@
 
     Ready-to-use templates: CONTRIBUTING.md, MAINTAINERS.md, governance docs, election processes, issue/PR templates.
 -->
-</div>
+
 
 ---
 
