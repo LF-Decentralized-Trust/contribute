@@ -2,7 +2,7 @@
 
 # TSC
 
-Guidelines on creating and running a TSC committee for a project. These guidelines also include the description of the activities fullfilled by the TSC members.
+Guidelines on creating and running a TSC committee for a project. These guidelines also include the description of the activities fulfilled by the TSC members.
 
 !!! tip "Use small loops"
     TSC guidelines and role description should be clear, public and easily located under the project's governance repo in the charter document. 
@@ -11,7 +11,7 @@ Guidelines on creating and running a TSC committee for a project. These guidelin
 
 ## What Is a TSC Team
 
-A Technical Steering Committee (TSC) is a group of people responsible for the technical oversight and strategic technical direction of an open source project hosted under the LFDT umbrella. The responsibilities of the team include decision-making about technical matters that span the project, the community that contributes to it and it's end users.
+A Technical Steering Committee (TSC) is a group of people responsible for the technical oversight and strategic technical direction of an open source project hosted under the LFDT umbrella. The responsibilities of the team include decision-making about technical matters that span the project, the community that contributes to it and its end users.
 
 In general:
 
@@ -26,7 +26,7 @@ In general:
 
 ## How a TSC Team Is Elected & Who Votes
 
-### Eligibility to participare on the TSC
+### Eligibility to participate on the TSC
 
 Nominees must:
 - Have sufficient bandwidth to participate.
@@ -44,7 +44,7 @@ Nominees must:
 
 ### The nomination and election process
 
-A project’s TSC can define its specific process, but the recommended requierement includes:
+A project’s TSC can define its specific process, but the recommended requirement includes:
 
 - Each nominating individual may nominate up to two people.
 - Only one nominee may come from the same company group.
