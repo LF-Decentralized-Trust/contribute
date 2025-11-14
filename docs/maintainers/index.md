@@ -52,6 +52,12 @@
 
     Ready-to-use templates: CONTRIBUTING.md, MAINTAINERS.md, governance docs, election processes, issue/PR templates.
 
+- :material-file-document-multiple:{ .lg .middle } __[TSC](tsc.md)__
+
+    ---
+
+    TSC guidelines, practices, role activities and eligibility.
+
 </div>
 
 ---
