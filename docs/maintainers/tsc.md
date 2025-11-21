@@ -1,6 +1,6 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-# TSC
+# TSC Playbook
 
 Guidelines on creating and running a TSC committee for a project. These guidelines also include the description of the activities fulfilled by the TSC members.
 
