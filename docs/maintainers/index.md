@@ -52,7 +52,7 @@
 
     Ready-to-use templates: CONTRIBUTING.md, MAINTAINERS.md, governance docs, election processes, issue/PR templates.
 
-- :material-file-document-multiple:{ .lg .middle } __[TSC](tsc.md)__
+- :material-file-document-multiple:{ .lg .middle } __[TSC Playbook](tsc.md)__
 
     ---
 
