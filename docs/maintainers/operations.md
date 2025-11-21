@@ -33,6 +33,7 @@
   SemVer, pre-releases, migration notes, LTS decisions, checklists.
 
 - **SemVer**: major=breaking, minor=features, patch=fixes
+    - **SemVer** is optional, but highly recommended 
 - Pre-release tags for RC/beta; document upgrade notes & migrations
 - Maintain a **release checklist** (see Templates)
 

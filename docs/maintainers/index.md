@@ -28,17 +28,17 @@
 
     Understand MAINTAINERS.md, decision-making, elections, subprojects, and inactivity & succession policies.
 
-- :material-shield-check:{ .lg .middle } __[Security](security.md)__
-
-    ---
-
-    Follow security best practices: SECURITY.md, vulnerability response, SLSA, release signing & provenance.
-
 - :material-account-cog:{ .lg .middle } __[End User Engagement](enduserengagement.md)__
 
     ---
 
     Simple steps for engaging real-world users and turning feedback into upstream momentum.
+  
+- :material-shield-check:{ .lg .middle } __[Security](security.md)__
+
+    ---
+
+    Follow security best practices: SECURITY.md, vulnerability response, SLSA, release signing & provenance.
 
 - :material-cogs:{ .lg .middle } __[Operations](operations.md)__
 
