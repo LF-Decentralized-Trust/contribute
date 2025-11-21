@@ -1,6 +1,6 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-# Governance Playbook
+# Maintainer Governance Playbook
 
 !!! Welcome
     Clear governance sustains project health and trust. Use these patterns to document roles, decisions, and succession.
