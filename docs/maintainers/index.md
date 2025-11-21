@@ -28,7 +28,7 @@
 
     Learn how to run inclusive meetings, triage issues, review PRs effectively, and grow contributors.
 
-- :material-scale-balance:{ .lg .middle } __[Governance](governance.md)__
+- :material-scale-balance:{ .lg .middle } __[Maintainer Governance](governance.md)__
 
     ---
 
