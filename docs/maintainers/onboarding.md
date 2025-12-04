@@ -47,7 +47,8 @@ Community call + notes, good-first-issues, review workflow & SLAs.
 - Community growth → Community playbook
 
 ---
-
+<!--
 ### Related
 
 - [Templates](templates.md) · [Security](security.md) · [Community](community.md)
+-->
