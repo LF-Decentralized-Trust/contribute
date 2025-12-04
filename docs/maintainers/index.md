@@ -20,7 +20,7 @@
 
     ---
 
-   For individuals becoming maintainers: expectations, responsibilities, access setup, and a first-30-days guide for joining a project’s leadership.
+    For individuals becoming maintainers: expectations, responsibilities, access setup, and a first-30-days guide for joining a project’s leadership.
 
 - :material-account-group:{ .lg .middle } __[Community Playbook](community.md)__
 
