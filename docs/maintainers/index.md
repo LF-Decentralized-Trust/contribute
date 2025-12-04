@@ -6,17 +6,17 @@
 
     Maintainers steward projects at LFDT. You set direction, grow contributors, ship secure releases, and uphold open governance.  
     This section gives you playbooks, templates, and requirements so you can focus on building great software.  
-    If you're new, start with [**New Maintainer Onboarding**](onboarding.md) — a 10–30 minute primer to get you ready.
+    If you're new, start with [**New Maintainer Onboarding**](new-maintainer-onboarding.md) — a 10–30 minute primer to get you ready.
 
 <div class="grid cards" markdown>
 
-- :material-account-cog:{ .lg .middle } __[New Project Onboarding (A Maintainer's Playbook for the First 30 Days)](onboarding.md)__
+- :material-account-cog:{ .lg .middle } __[New Project Onboarding](onboarding.md)__
 
     ---
 
-    New to maintaining a project at LFDT? Start here for essential roles, expectations, and setup steps.
+    Onboarding a project at LFDT? Start here for essential roles, expectations, and setup steps.
   
-- :material-account-cog:{ .lg .middle } __[Onboarding a New Maintainer](new-maintainer-onboarding.md)__
+- :material-account-cog:{ .lg .middle } __[New Maintainer Onboarding](new-maintainer-onboarding.md)__
 
     ---
 
