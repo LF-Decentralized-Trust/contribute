@@ -174,12 +174,12 @@ Maintainers are encouraged to ask questions early and often. Helpful resources i
 - Project leads and maintainers  
 - LFDT TAC and community architects  
 - Contributor Ladder documentation  
-- Project Slack/Matrix channels  
+- Project Discord channels  
 - LFDT governance pages
 
 ---
 
 !!! note "Looking for Project Onboarding?"
     This page focuses on onboarding *people*. For onboarding a new **project**, see:  
-    _(link to Onboarding a New Project page once renamed)_
+    __[New Project Onboarding](onboarding.md)__
 
