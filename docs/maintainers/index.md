@@ -10,7 +10,7 @@
 
 <div class="grid cards" markdown>
 
-- :material-account-cog:{ .lg .middle } __[Maintainer Onboarding](onboarding.md)__
+- :material-account-cog:{ .lg .middle } __[New Project Onboarding (A Maintainer's Playbook for the First 30 Days)](onboarding.md)__
 
     ---
 
