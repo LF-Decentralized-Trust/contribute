@@ -54,7 +54,7 @@
 </div>
 
 
----
+<!--
 
 ## Required LFDT Policies & Processes
 
@@ -88,7 +88,7 @@ These are LFDT requirements that every project must follow. Each topic is linked
 - [Release Taxonomy](https://lf-decentralized-trust.github.io/governance/governing-documents/release-taxonomy/)  
 - [Release Signing](https://lf-decentralized-trust.github.io/governance/governing-documents/release-signing/)
 
----
+-->
 
 ### Pages in this section
 
