@@ -2,15 +2,11 @@
 
 # Onboarding a New Maintainer
 
-A concise playbook for maintainers to get a new project up and run healthy, welcoming communities: clear review flow, lightweight triage, inclusive meetings, growth pathways, and neutral communications.
+A concise playbook to onboard maintainers to your project. It explains how individuals become maintainers of an LFDT project, what is expected of them, and how to help them get fully set up during their first 30 days. 
 
-!!! tip "TBD" This guide explains how individuals become maintainers of an LFDT project, what is expected of them, and how to get fully set up during their first 30 days.  
-It complements (but does not replace) each project's documented governance and maintainer policies.
+!!! tip "It complements (but does not replace) each project's documented governance and maintainer policies."
 
 # New Maintainer Onboarding Guide
-
-This guide explains how individuals become maintainers of an LFDT project, what is expected of them, and how to get fully set up during their first 30 days.  
-It complements (but does not replace) each project's documented governance and maintainer policies.
 
 ---
 
