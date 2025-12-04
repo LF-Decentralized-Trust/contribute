@@ -1,11 +1,10 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-# New Project Onboarding (A Maintainer's Playbook for the First 30 Days)
+# New Project Onboarding 
 
-A concise playbook for maintainers to get a new project up and run healthy, welcoming communities: clear review flow, lightweight triage, inclusive meetings, growth pathways, and neutral communications.
 
-!!! tip "TBD"
-    TBD
+
+!!! tip "A Maintainer's Playbook for the First 30 Days - A concise playbook for maintainers to get a new project up and run healthy, welcoming communities: clear review flow, lightweight triage, inclusive meetings, growth pathways, and neutral communications."
 
 
 ## Week 1 — Foundations
