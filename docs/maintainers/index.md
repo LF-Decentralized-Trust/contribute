@@ -14,13 +14,13 @@
 
     ---
 
-    Onboarding a project at LFDT? Start here for essential roles, expectations, and setup steps.
+    For projects joining LFDT: requirements, readiness steps, repository structure, governance setup, and what’s needed for TAC review.
   
 - :material-account-cog:{ .lg .middle } __[New Maintainer Onboarding](new-maintainer-onboarding.md)__
 
     ---
 
-    New to maintaining a project at LFDT? Start here for essential roles, expectations, and setup steps.
+   For individuals becoming maintainers: expectations, responsibilities, access setup, and a first-30-days guide for joining a project’s leadership.
 
 - :material-account-group:{ .lg .middle } __[Community Playbook](community.md)__
 
