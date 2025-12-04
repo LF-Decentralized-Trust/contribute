@@ -15,6 +15,12 @@
     ---
 
     New to maintaining a project at LFDT? Start here for essential roles, expectations, and setup steps.
+  
+- :material-account-cog:{ .lg .middle } __[Onboarding a New Maintainer](new-maintainer-onboarding.md)__
+
+    ---
+
+    New to maintaining a project at LFDT? Start here for essential roles, expectations, and setup steps.
 
 - :material-account-group:{ .lg .middle } __[Community Playbook](community.md)__
 
