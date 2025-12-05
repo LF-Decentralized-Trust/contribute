@@ -2,10 +2,13 @@
 
 # Contributing as an End User
 
-End users are some of the most important contributors to the LF Decentralized Trust (LFDT) ecosystem.  
-By adopting LFDT projects in production, sharing feedback, and documenting real-world use cases, end users help guide the direction of our community and validate its impact in the world.  
+!!! Welcome
 
-As a first step, we encourage all organizations actively using LFDT projects to add themselves to that project’s `adopters.md` file. This helps demonstrate adoption, build confidence for new users, and showcase the global reach of LFDT technologies.
+    End users are some of the most important contributors to the LF Decentralized Trust (LFDT) ecosystem. 
+    By adopting LFDT projects in production, sharing feedback, and documenting real-world use cases, end users help guide the direction of our
+    community and validate its impact in the world. 
+    As a first step, we encourage all organizations actively using LFDT projects to add themselves to that project’s `adopters.md` file. 
+    This helps demonstrate adoption, build confidence for new users, and showcase the global reach of LFDT technologies.
 
 ---
 
