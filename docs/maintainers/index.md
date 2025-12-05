@@ -40,6 +40,12 @@
 
     Simple steps for engaging real-world users and turning feedback into upstream momentum.
   
+- :material-file-document-multiple:{ .lg .middle } __[Templates & Checklists](templates.md)__
+
+    ---
+
+    Ready-to-use templates: CONTRIBUTING.md, MAINTAINERS.md, governance docs, election processes, issue/PR templates.
+  
 - :material-shield-check:{ .lg .middle } __[Security](security.md)__
 
     ---
@@ -52,11 +58,7 @@
 
     Repository structure, CI/CD checks, release taxonomy, and how to complete project updates & annual reviews.
 
-- :material-file-document-multiple:{ .lg .middle } __[Templates & Checklists](templates.md)__
 
-    ---
-
-    Ready-to-use templates: CONTRIBUTING.md, MAINTAINERS.md, governance docs, election processes, issue/PR templates.
 </div>
 
 
