@@ -45,6 +45,11 @@
     ---
 
     Ready-to-use templates: CONTRIBUTING.md, MAINTAINERS.md, governance docs, election processes, issue/PR templates.
+
+  </div>
+
+
+<!--
   
 - :material-shield-check:{ .lg .middle } __[Security](security.md)__
 
@@ -59,10 +64,7 @@
     Repository structure, CI/CD checks, release taxonomy, and how to complete project updates & annual reviews.
 
 
-</div>
 
-
-<!--
 
 ## Required LFDT Policies & Processes
 
