@@ -96,6 +96,3 @@ These are LFDT requirements that every project must follow. Each topic is linked
 
 -->
 
-### Pages in this section
-
-- [Community](community.md) · [Governance](governance.md) · [Security](security.md) · [Operations](operations.md) · [Templates](templates.md) · [Onboarding](onboarding.md)
