@@ -100,6 +100,7 @@ Participation as an end user benefits multiple roles within your organization:
    Open issues, propose improvements, and help prioritize features.  
 
 ---
-
-Contributing as an end user isn’t just about adoption — it’s about shaping the future of decentralized trust technologies.  
-If your organization is using an LFDT project today, take the first step: **add yourself to the project’s `adopters.md` file and join the growing community of contributors.**
+!!! tip "New here?"
+    Contributing as an end user isn’t just about adoption — it’s about shaping the future of decentralized trust technologies. 
+    If your organization is using an LFDT project today, take the first step: **add yourself to the project’s `adopters.md` file 
+    and join the growing community of contributors.**
