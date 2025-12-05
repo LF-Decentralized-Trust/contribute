@@ -25,7 +25,7 @@ Welcome to the LFDT Contributor Hub — your starting point to **participate, co
 
     Are you a maintainer or want to become a maintainer? Click here for more information about maintaining projects and labs.
 
-- :fontawesome-solid-code-merge:{ .lg .middle } __[End User](./end-users/index.md)__
+- :fontawesome-solid-code-merge:{ .lg .middle } __[End Users](./end-users/index.md)__
 
     ---
 
