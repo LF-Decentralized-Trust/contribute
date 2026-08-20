@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Read past issues of dev/weekly
+    url: https://www.lfdecentralizedtrust.org/newsletter
+    about: Browse the newsletter archive to see the tone and format of published items.
+  - name: Community calendar
+    url: https://zoom-lfx.platform.linuxfoundation.org/meetings/lf-decentralized-trust?view=week
+    about: Project calls and community events are already listed here — no need to submit them.
+  - name: LF Decentralized Trust Discord
+    url: https://discord.gg/hyperledger
+    about: Questions for the community that are not a newsletter submission.
