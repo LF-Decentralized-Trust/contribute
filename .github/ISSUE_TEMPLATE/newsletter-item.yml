@@ -1,0 +1,118 @@
+name: Newsletter item
+description: Suggest an item for the LF Decentralized Trust dev/weekly newsletter
+title: "[newsletter] "
+labels: ["newsletter"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing to [dev/weekly](https://www.lfdecentralizedtrust.org/newsletter)!
+
+        The newsletter goes out to hundreds of LF Decentralized Trust developers every week and
+        is a collaborative effort. Use this form to submit a project release, noteworthy pull
+        request, community event, article, or training resource for an upcoming issue.
+
+        **One item per issue, please.** Open a separate issue for each thing you want highlighted.
+
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      description: Which section of the newsletter does this belong in?
+      options:
+        - Announcements
+        - Code & Projects
+        - Noteworthy Pull Requests
+        - Articles, Training & Tutorials
+        - Events
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: >
+        The primary URL for this item. It must be publicly reachable without a login.
+        Please strip tracking parameters (`utm_*`, `_hsenc`, and similar).
+      placeholder: https://github.com/LF-Decentralized-Trust-labs/FabricOps
+    validations:
+      required: true
+
+  - type: input
+    id: link_text
+    attributes:
+      label: Link text
+      description: The words that should be hyperlinked in the newsletter. Make it descriptive, not "click here".
+      placeholder: FabricOps lab
+    validations:
+      required: false
+
+  - type: textarea
+    id: blurb
+    attributes:
+      label: Blurb
+      description: >
+        Write it the way it should read in the newsletter: one to three sentences, third person,
+        no marketing hype. Say what it is and why a developer should care. Editors may trim it
+        for length or house style.
+      placeholder: >
+        The new FabricOps lab project provides a Kubernetes operator and declarative deployment
+        engine for multi-organization Hyperledger Fabric networks, including Fabric CA enrollment,
+        channel bootstrapping, Chaincode-as-a-Service lifecycle automation, observability, and
+        federated organization participation.
+    validations:
+      required: true
+
+  - type: input
+    id: project
+    attributes:
+      label: Project or lab
+      description: The LF Decentralized Trust project, lab, or working group this relates to, if any.
+      placeholder: Hyperledger Fabric
+    validations:
+      required: false
+
+  - type: input
+    id: event_datetime
+    attributes:
+      label: Event date and time
+      description: >
+        Events only. Include the day of the week, date, and time with a time zone.
+        Add a registration link above if it differs from the primary link.
+      placeholder: Wednesday, October 14 at 9AM Pacific
+    validations:
+      required: false
+
+  - type: input
+    id: target_issue
+    attributes:
+      label: Target issue
+      description: >
+        Which week should this run in? Give the Monday of that week, or leave blank and we will
+        place it in the next available issue. Items are typically cut off the Friday before.
+      placeholder: August 24, 2026
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes for the editors
+      description: >
+        Anything else we should know — an embargo date, a preferred image, a correction to a
+        previous issue, or context that should not be published.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Before you submit
+      options:
+        - label: This item is relevant to the LF Decentralized Trust developer community.
+          required: true
+        - label: The link is publicly accessible and does not require a login or paid subscription.
+          required: true
+        - label: I understand editors may edit this for length, clarity, and style, and that submission does not guarantee inclusion.
+          required: true
