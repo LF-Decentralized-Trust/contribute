@@ -2,6 +2,10 @@ name: Newsletter item
 description: Suggest an item for the LF Decentralized Trust dev/weekly newsletter
 title: "[newsletter] "
 labels: ["newsletter"]
+assignees:
+  - davidwboswell
+  - jwagantall
+  - ryjones
 body:
   - type: markdown
     attributes:
